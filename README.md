@@ -9,7 +9,11 @@ A comprehensive React learning resource with interactive examples, practical pro
 
 ## 🚀 Live Demo
 
-**[View Live Demo](https://michaelgermini.github.io/react-book)** *(Coming Soon)*
+**[View Live Demo](https://react-book-7yqa74xoj-michael-germinis-projects.vercel.app/)** *(Live on Vercel)*
+
+### 🌐 Déploiement
+- **Vercel** : https://react-book-7yqa74xoj-michael-germinis-projects.vercel.app/
+- **GitHub Pages** : https://michaelgermini.github.io/react-book *(en cours de configuration)*
 
 ## 📖 Table of Contents
 
