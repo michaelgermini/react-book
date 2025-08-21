@@ -13,7 +13,6 @@ A comprehensive React learning resource with interactive examples, practical pro
 
 ### 🌐 Déploiement
 - **Vercel** : https://react-book-7yqa74xoj-michael-germinis-projects.vercel.app/
-- **GitHub Pages** : https://michaelgermini.github.io/react-book *(en cours de configuration)*
 
 ## 📖 Table of Contents
 
