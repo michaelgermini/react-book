@@ -9,7 +9,7 @@ A comprehensive React learning resource with interactive examples, practical pro
 
 ## 🚀 Live Demo
 
-**[View Live Demo](https://your-demo-link.com)** *(Coming Soon)*
+**[View Live Demo](https://michaelgermini.github.io/react-book)** *(Coming Soon)*
 
 ## 📖 Table of Contents
 
@@ -77,7 +77,7 @@ A comprehensive React learning resource with interactive examples, practical pro
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/react-book.git
+git clone https://github.com/michaelgermini/react-book.git
 cd react-book
 ```
 
@@ -243,13 +243,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 📧 **Email**: your-email@example.com
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/react-book/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/react-book/discussions)
+- 📧 **Email**: michael@germini.info
+- 🐛 **Issues**: [GitHub Issues](https://github.com/michaelgermini/react-book/issues)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/michaelgermini/react-book/discussions)
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/react-book&type=Date)](https://star-history.com/#yourusername/react-book&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=michaelgermini/react-book&type=Date)](https://star-history.com/#michaelgermini/react-book&Date)
 
 ---
 
